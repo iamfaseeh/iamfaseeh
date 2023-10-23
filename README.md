@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=iamfaseeh&style=flat-square&color=blue)
 
-🏢 I’m currently working in [RNL](https://www.ruffalonl.com/) as **Sr. DevOps Engineer**
+🏢 I’m currently working as **Sr. DevOps Engineer**
 
 🌱 I’m currently working on **Breaking a Large Monolithic Pyramid Application with Team Collaboration**
 
