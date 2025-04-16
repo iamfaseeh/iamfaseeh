@@ -135,7 +135,6 @@
 
 #### Editor / IDE I ♥
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/>
 
   <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/>
 
