@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faseeh 🌀 Senior Software Engineer</h1>
+<h1 align="center">Hi 👋, I'm 🌀 Senior Software Engineer</h1>
 <h3 align="center">An Engineer who ♥ automating stuff</h3>
 
 <p align="center">
