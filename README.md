@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faseeh 🌀 Senior DevOps Engineer</h1>
+<h1 align="center">Hi 👋, I'm Faseeh 🌀 Senior Software Engineer</h1>
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
 
 <p align="center">
