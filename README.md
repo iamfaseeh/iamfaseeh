@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faseeh 🌀 Senior Software Engineer</h1>
-<h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
+<h3 align="center">An Engineer who ♥ automating stuff</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-faseeh-a0154b245/" target="blank">
@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=iamfaseeh&style=flat-square&color=blue)
 
-🏢 I’m currently working as **Sr. DevOps Engineer**
+🏢 I’m currently working as **Sr. Software Engineer**
 
 🌱 I’m currently working on **Breaking a Large Monolithic Pyramid Application with Team Collaboration**
 
