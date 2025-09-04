@@ -50,18 +50,11 @@
 #### Programming Language Stack
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>
-
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/>
-
   <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>
-
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>
-
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/>
-
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="go" title="go" width="40" height="40"/>
-
-
 </p>
 
 #### OS Stack
@@ -70,8 +63,6 @@
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/>
-
-
 </p>
 
 #### Database Stack
@@ -82,7 +73,6 @@
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="mongodb" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" title="redis" width="40" height="40"/>
-
 </p>
 
 #### Dev Stack
@@ -94,8 +84,6 @@
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/redux.svg" alt="redux" title="redux" width="100" height="100"/>
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/flask.svg" alt="flask" title="flask" width="100" height="100"/>
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/laravel.svg" alt="laravel" title="laravel" width="100" height="100"/>
-
-
 </p>
 
 #### DevOps Stack
@@ -123,14 +111,12 @@
 
 #### Project Management Stack
 <p align="left">
-
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" title="gitlab" width="40" height="40"/>
-
 </p>
 
 #### Editor / IDE I ♥
